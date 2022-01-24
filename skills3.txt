@@ -7,3 +7,9 @@ JS
 CSS
 Node
 Raciocinio logico
+=======
+VSC
+Chromecast
+Nada
+Porra nenhuma
+
