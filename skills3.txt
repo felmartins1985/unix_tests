@@ -6,3 +6,4 @@ HTML
 JS
 CSS
 Node
+Raciocinio logico
